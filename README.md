@@ -8,13 +8,9 @@ Everything is free and available on GitHub and PyPI.
 - Stable APIs, honest documentation
 - Actively maintained
 
-### Support
+---
 
-If any of this is useful to you, you can support the work through
-[GitHub Sponsors](https://github.com/sponsors/BeneODev) or
-[PayPal](https://paypal.me/BeneODev).
-
-### Elsewhere
-
-[benethos.de](https://www.benethos.de/) ·
-[LinkedIn](https://www.linkedin.com/in/benedikt-oswald-ai-architect-and-software-engineer)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/BeneODev)
+[![PayPal](https://img.shields.io/badge/Support-PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/BeneODev)
+[![Website](https://img.shields.io/badge/Web-benethos.de-444444)](https://www.benethos.de/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedikt-oswald-ai-architect-and-software-engineer)
